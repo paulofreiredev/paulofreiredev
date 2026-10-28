@@ -14,7 +14,7 @@ Estou preparando este espaço para contar um pouco sobre minha trajetória e o q
 
 ## Tecnologias e ferramentas
 
-Em breve, as tecnologias que fazem parte do meu dia a dia.
+Java, Kotlin, Golang, Python, AWS, Terraform, Docker, Payments
 
 <!-- Liste apenas tecnologias com as quais você trabalha ou está aprendendo. -->
 
@@ -24,9 +24,5 @@ Veja meus repositórios em [github.com/paulofreiredev](https://github.com/paulof
 
 <!-- Adicione aqui links e descrições curtas dos seus principais projetos. -->
 <!-- Portfólio: adicione a URL real do GitHub Pages quando estiver disponível. -->
-
-## Notas pelo caminho
-
-Em breve, artigos e aprendizados do meu blog.
 
 <!-- Contato: adicione somente os canais que deseja tornar públicos. -->
