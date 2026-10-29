@@ -1,7 +1,7 @@
-# <span style="color:#377031;font-family:monospace;">Olá, eu sou Paulo Freire</span> 👋
+![Olá, sou Paulo Freire](./assets/images/ola_sou_paulo_freire_pixel.svg)
 
 ![Desenvolvedor Backend | Engenheiro de Software | Payments | AWS | Terraform](https://readme-typing-svg.demolab.com/?lines=Desenvolvedor+Backend;Engenheiro+de+Software;Payments;AWS+|+Terraform)
-![Fundo de Tela](https://minimalistic-wallpaper.demolab.com/?random)
+![Banner](assets/images/banner.png)
 <!-- Personalize a apresentação com sua área de atuação e interesses. -->
 
 [![GitHub](https://img.shields.io/badge/GitHub-paulofreiredev-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/paulofreiredev)
@@ -16,13 +16,4 @@ Sou graduado em telemática, possuo conhecimentos em redes, bancos de dados, des
 
 Java, Kotlin, Golang, Python, AWS, Terraform, Docker, Payments
 
-<!-- Liste apenas tecnologias com as quais você trabalha ou está aprendendo. -->
-
-## Projetos
-
-Veja meus repositórios em [github.com/paulofreiredev](https://github.com/paulofreiredev?tab=repositories).
-
-<!-- Adicione aqui links e descrições curtas dos seus principais projetos. -->
-<!-- Portfólio: adicione a URL real do GitHub Pages quando estiver disponível. -->
-
-<!-- Contato: adicione somente os canais que deseja tornar públicos. -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
