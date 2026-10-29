@@ -8,7 +8,7 @@
 
 ## Sobre mim
 
-Sou graduado em telemática, possuo conhecimentos em redes, bancos de dados, desenvolvimento fullstack, engenharia de software, infraestrutura como  código e meios de pagamento, gosto de eletrónica, matemática e criação de jogos
+Engenheiro de software com experiência em backend, sistemas distribuídos e integração de meios de pagamento  
 
 <!-- Substitua o texto acima pela sua apresentação. -->
 
