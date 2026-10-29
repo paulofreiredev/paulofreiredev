@@ -1,7 +1,7 @@
-# <span style="color:#377031;">Olá, eu sou Paulo Freire</span> 👋
+# <span style="color:#377031;font-family:monospace;">Olá, eu sou Paulo Freire</span> 👋
 
-Desenvolvedor Backend | Engenheiro de Software | Payments | AWS | Terraform
-
+![Desenvolvedor Backend | Engenheiro de Software | Payments | AWS | Terraform](https://readme-typing-svg.demolab.com/?lines=Desenvolvedor+Backend;Engenheiro+de+Software;Payments;AWS+|+Terraform)
+![Fundo de Tela](https://minimalistic-wallpaper.demolab.com/?random)
 <!-- Personalize a apresentação com sua área de atuação e interesses. -->
 
 [![GitHub](https://img.shields.io/badge/GitHub-paulofreiredev-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/paulofreiredev)
