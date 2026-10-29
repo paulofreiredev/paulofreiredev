@@ -14,6 +14,11 @@ Sou graduado em telemática, possuo conhecimentos em redes, bancos de dados, des
 
 ## Tecnologias e ferramentas
 
-Java, Kotlin, Golang, Python, AWS, Terraform, Docker, Payments
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+![Java](https://img.shields.io/badge/Java-5382A1?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Golang](https://img.shields.io/badge/Golang-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Payments](https://img.shields.io/badge/Payments-2E7D32?style=flat-square&logoColor=white)
