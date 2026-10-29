@@ -1,6 +1,6 @@
-# Olá, eu sou Paulo Freire 👋
+# <span style="color:#377031;">Olá, eu sou Paulo Freire</span> 👋
 
-Um espaço para compartilhar meus projetos, ideias e aprendizados.
+Desenvolvedor Backend | Engenheiro de Software | Payments | AWS | Terraform
 
 <!-- Personalize a apresentação com sua área de atuação e interesses. -->
 
@@ -8,7 +8,7 @@ Um espaço para compartilhar meus projetos, ideias e aprendizados.
 
 ## Sobre mim
 
-Estou preparando este espaço para contar um pouco sobre minha trajetória e o que gosto de construir.
+Sou graduado em telemática, possuo conhecimentos em redes, bancos de dados, desenvolvimento fullstack, engenharia de software, infraestrutura como  código e meios de pagamento, gosto de eletrónica, matemática e criação de jogos
 
 <!-- Substitua o texto acima pela sua apresentação. -->
 
